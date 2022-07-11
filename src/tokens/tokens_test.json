@@ -1,0 +1,67 @@
+{
+  "name": "BizTestNet",
+  "logoURI": "static:/images/logos/biznet-logo-blue-100.svg",
+  "keywords": ["boa", "tokens", "points"],
+  "timestamp": "2022-05-10T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xb0D2c05F327a62F9C5BF2F44De7373cC2640fF0a",
+      "chainId": 2019,
+      "name": "Token G",
+      "symbol": "GTK",
+      "decimals": 18,
+      "tags": ["TOKEN"],
+      "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-gametoken.svg"
+    },
+    {
+      "address": "0x09EFbD13f910b0F768756Dc188a4D3ba7932d47d",
+      "chainId": 2019,
+      "name": "Token E",
+      "symbol": "ETK",
+      "decimals": 18,
+      "tags": ["TOKEN"],
+      "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-ecotoken.svg"
+    },
+    {
+      "address": "0xe5c20fB57aD42fFbDDAEa6512bdfeA4A96543519",
+      "chainId": 3,
+      "name": "BOSAGORA",
+      "symbol": "BOA",
+      "decimals": 7,
+      "tags": ["TOKEN"],
+      "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-boa.svg"
+    },
+    {
+      "address": "0xc01Ee7f10EA4aF4673cFff62710E1D7792aBa8f3",
+      "chainId": 31337,
+      "name": "BOSAGORA",
+      "symbol": "BOA",
+      "decimals": 7,
+      "tags": ["TOKEN"],
+      "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-boa.svg"
+    },
+    {
+      "address": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5",
+      "chainId": 1281,
+      "name": "Token G",
+      "symbol": "GTK",
+      "decimals": 18,
+      "tags": ["TOKEN"],
+      "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-gametoken.svg"
+    },
+    {
+      "address": "0xfE5D3c52F7ee9aa32a69b96Bfbb088Ba0bCd8EfC",
+      "chainId": 1281,
+      "name": "Token E",
+      "symbol": "ETK",
+      "decimals": 18,
+      "tags": ["TOKEN"],
+      "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-ecotoken.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}
